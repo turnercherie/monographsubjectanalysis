@@ -1,5 +1,3 @@
-##Notes for paper; all input files were added as csv files for simplicity; file names were modified for simplicity in coding; data from sierra was titled books.csv, and data from illiad was titled ill.csv
-
 ##Load required packages
 require(plyr)
 require(ggplot2)
